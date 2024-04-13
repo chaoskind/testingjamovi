@@ -5,12 +5,12 @@ Auf dieser Seite findet sich ein Leitfaden für die Arbeit mit Jamovi zum statis
 # Arbeit in der Programmoberfläche
 ## Datensatz einlesen
 
-![](./bilder/Programmoberfläche-DatensatzEinlesen-1.png)
+![Programmoberfläche-DatensatzEinlesen-1](./bilder/Programmoberfläche-DatensatzEinlesen-1.png)
 
 Dateien, die lokal auf dem Rechner gespeichert sind, können über das Menü an der linken Seite geöffnet werden. Dazu muss man lediglich zur gewünschten Datei navigieren und diese auswählen.
 Die Übungsdatensätze können durch Klick auf "Datenbibliothek" aufgerufen werden.
 
-![](./bilder/Programmoberfläche-DatensatzEinlesen-2.png)
+![Programmoberfläche-DatensatzEinlesen-2](/bilder/Programmoberfläche-DatensatzEinlesen-2.png)
 
 >[!Note]
 >### Unterschied .xlsx und .sav
@@ -20,7 +20,7 @@ Die Übungsdatensätze können durch Klick auf "Datenbibliothek" aufgerufen werd
 >[!Tip]
 >Die folgenden Aktionen können entweder im Tab "Variablen" oder in den Menüpunkten "Daten" oder "Analysen" durchgeführt werden. Die Funktionsweise unterscheidet sich nicht.
 
-![](./bilder/Programmoberfläche-DatensatzAufbereiten-1.png)
+![](/bilder/Programmoberfläche-DatensatzAufbereiten-1.png)
 
 Über einen Doppelklick auf den Variablennamen öffnet sich eine Ansicht, in der die Variable bearbeitet werden kann. Hier können Name, Beschreibung, Skalenniveau und Faktorstufen eingestellt und verändert werden.
 
