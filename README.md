@@ -1,5 +1,5 @@
 # testingjamovi
-Test-Repo für das Projekt Jamovi
+Test-Repo für das Projekt Jamovi.
 Auf dieser Seite findet sich ein Leitfaden für die Arbeit mit Jamovi zum statistischen Auswerten von Datensätzen.
 
 # Arbeit in der Programmoberfläche
