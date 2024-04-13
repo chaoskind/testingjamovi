@@ -20,7 +20,7 @@ Die Übungsdatensätze können durch Klick auf "Datenbibliothek" aufgerufen werd
 >[!Tip]
 >Die folgenden Aktionen können entweder im Tab "Variablen" oder in den Menüpunkten "Daten" oder "Analysen" durchgeführt werden. Die Funktionsweise unterscheidet sich nicht.
 
-![](/bilder/Programmoberfläche-DatensatzAufbereiten-1.png)
+![Programmoberfläche-DatensatzAufbereiten-1.png](bilder/Programmoberfläche-DatensatzAufbereiten-1.png)
 
 Über einen Doppelklick auf den Variablennamen öffnet sich eine Ansicht, in der die Variable bearbeitet werden kann. Hier können Name, Beschreibung, Skalenniveau und Faktorstufen eingestellt und verändert werden.
 
