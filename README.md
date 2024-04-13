@@ -26,7 +26,7 @@ Die Übungsdatensätze können durch Klick auf "Datenbibliothek" aufgerufen werd
 
 Bei den Skalenniveaus "Nominal" und "Ordinal" werden die in den Daten vorkommenden Faktorstufen automatisch in die Liste der Faktorstufen eingefügt. Weitere Faktorstufen können händisch hinzugefügt werden.
 Hierzu muss man das Plus-Icon anklicken, im sich öffnenden Feld den Zahlenwert der neuen Faktorstufe eintragen und auf "OK" klicken. Anschließend kann man die Faktorstufe per Doppelklick auf den neuen Eintrag benennen.
-![programmoberflaeche-datensatz-aufbereiten-3-1](./bilder/programmoberflaeche-datensatz-aufbereiten-3-1)
+![programmoberflaeche-datensatz-aufbereiten-3-1](./bilder/programmoberflaeche-datensatz-aufbereiten-3-1.png)
 ![programmoberflaeche-datensatz-aufbereiten-3](./bilder/programmoberflaeche-datensatz-aufbereiten-3.png)
 
 >Setzt man den Haken bei "Ungenutzte Faktorstufen in Analyse einschließen", werden in Auswertungen auch Faktorstufen, die nicht gewählt wurden, mit einbezogen. (Beispielsweise, wenn auf einer Likert-Skala der Wert 3 kein einziges Mal als Antwort ausgewählt wurde)
