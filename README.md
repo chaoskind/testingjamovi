@@ -1,6 +1,9 @@
 Test-Repo für das Projekt Jamovi.
 Auf dieser Seite findet sich ein Leitfaden für die Arbeit mit Jamovi zum statistischen Auswerten von Datensätzen.
 
+* auto-gen TOC:
+{:toc}
+
 # Inhalt
 - [Arbeit in der Programmoberfläche](#arbeit-in-der-programmoberfläche)
    * [Datensatz einlesen](#datensatz-einlesen)
