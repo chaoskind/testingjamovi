@@ -2,8 +2,9 @@ Test-Repo für das Projekt Jamovi.
 Auf dieser Seite findet sich ein Leitfaden für die Arbeit mit Jamovi zum statistischen Auswerten von Datensätzen.
 
 # Inhalt
-- [Datensatz einlesen](#datensatz-einlesen)
-- [Datensatz aufbereiten](#datensatz-aufbereiten)
+- [Arbeit in der Programmoberfläche](#arbeit-in-der-programmoberfläche)
+   * [Datensatz einlesen](#datensatz-einlesen)
+   * [Datensatz aufbereiten](#datensatz-aufbereiten)
 
 # Arbeit in der Programmoberfläche
 ## Datensatz einlesen
