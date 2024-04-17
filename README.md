@@ -2,9 +2,8 @@ Test-Repo für das Projekt Jamovi.
 Auf dieser Seite findet sich ein Leitfaden für die Arbeit mit Jamovi zum statistischen Auswerten von Datensätzen.
 
 # Inhalt
-[Datensatz einlesen](#datensatz-einlesen)
-
-[Datensatz aufbereiten](#datensatz-aufbereiten)
+- [Datensatz einlesen](#datensatz-einlesen)
+- [Datensatz aufbereiten](#datensatz-aufbereiten)
 
 # Arbeit in der Programmoberfläche
 ## Datensatz einlesen
@@ -35,3 +34,5 @@ Hierzu muss man das Plus-Icon anklicken, im sich öffnenden Feld den Zahlenwert 
 ![programmoberflaeche-datensatz-aufbereiten-3](./bilder/programmoberflaeche-datensatz-aufbereiten-3.png)
 
 >Setzt man den Haken bei "Ungenutzte Faktorstufen in Analyse einschließen", werden in Auswertungen auch Faktorstufen, die nicht gewählt wurden, mit einbezogen. (Beispielsweise, wenn auf einer Likert-Skala der Wert 3 kein einziges Mal als Antwort ausgewählt wurde)
+
+[zurück nach oben](#inhalt)
